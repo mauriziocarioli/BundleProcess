@@ -10,6 +10,9 @@
       "parameters": [
           "Message": new StringDataType()
        ],
+    "results" : [
+        "Result" : new ObjectDataType(),
+    ],
       "displayName" : "Send Task",
       "icon" : "defaultemailicon.gif"
   ],
