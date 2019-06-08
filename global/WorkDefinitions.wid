@@ -8,7 +8,7 @@
   [
       "name" : "SendTask",
       "parameters": [
-          "message": new StringDataType()
+          "Message": new StringDataType()
           ],
       "displayName" : "Send Task",
       "icon" : "defaultemailicon.gif"
