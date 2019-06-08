@@ -9,8 +9,20 @@
       "name" : "SendTask",
       "parameters": [
           "Message": new StringDataType()
-          ],
+       ],
       "displayName" : "Send Task",
+      "icon" : "defaultemailicon.gif"
+  ],
+  
+  [
+      "name" : "ReceiveTask",
+      "parameters" : [
+          "CorrelationId": new StringDataType()
+       ],
+       "results": [
+           "Result" : new ObjectDataType(),
+        ],
+      "displayName" : "Receive Task",
       "icon" : "defaultemailicon.gif"
   ],
   
