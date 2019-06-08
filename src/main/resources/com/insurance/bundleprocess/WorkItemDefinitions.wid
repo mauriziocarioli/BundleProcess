@@ -1,14 +1,6 @@
 [
   [
     "name" : "DummyServiceTask",
-    "parameters" : [
-        "MyFirstParam" : new StringDataType(),
-        "MySecondParam" : new StringDataType(),
-        "MyThirdParam" : new ObjectDataType()
-    ],
-    "results" : [
-        "Result" : new ObjectDataType("java.util.Map")
-    ],
     "displayName" : "Dummy Service Task",
     "icon" : ""
   ]
