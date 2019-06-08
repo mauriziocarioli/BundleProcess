@@ -1,6 +1,6 @@
 package com.insurance.handler;
 
-package org.jbpm.bpmn2.handler;
+package com.insurance.handler;
 
 import java.util.HashMap;
 import java.util.Map;
