@@ -1,7 +1,5 @@
 package com.insurance.handler;
 
-package com.insurance.handler;
-
 import java.util.HashMap;
 import java.util.Map;
 
