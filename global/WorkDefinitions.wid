@@ -19,6 +19,9 @@
       "parameters" : [
           "MessageId": new StringDataType()
        ],
+    "results" : [
+        "Result" : new ObjectDataType(),
+    ],
       "displayName" : "Receive Task",
       "icon" : "defaultemailicon.gif"
   ],
