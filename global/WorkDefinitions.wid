@@ -8,7 +8,7 @@
   [
       "name" : "SendTask",
       "parameters": [
-          "Message": new StringDataType()
+          "MessageId": new StringDataType()
        ],
     "results" : [
         "Result" : new ObjectDataType(),
