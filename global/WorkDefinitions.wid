@@ -17,11 +17,8 @@
   [
       "name" : "ReceiveTask",
       "parameters" : [
-          "CorrelationId": new StringDataType()
+          "Message": new StringDataType()
        ],
-       "results": [
-           "Result" : new ObjectDataType(),
-        ],
       "displayName" : "Receive Task",
       "icon" : "defaultemailicon.gif"
   ],
